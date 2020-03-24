@@ -1,5 +1,5 @@
 # ARKit 2 Image Tracking Demo
-iOS 12 + ARKit 2 + Image tracking means: Harry Potter style moving pictures, living movie posters, video postcards, paper-thin “displays,” and lots more augmented reality fun.
+iOS 13 + ARKit 2 + Image tracking means: Harry Potter style moving pictures, living movie posters, video postcards, paper-thin “displays,” and lots more augmented reality fun.
 
 This project is a quick & dirty repurposing of Apple's ARKit 1 project "Recognizing Images in an AR Experience" to test ARKit 2's image tracking capabilities.
 
